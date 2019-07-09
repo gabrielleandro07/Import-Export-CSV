@@ -1,0 +1,14 @@
+ADMIN
+
+login: admin
+senha: 123456
+
+
+Utilizar o usuário e senha para acessar o ( http://localhost/site/login.php ), depois clicar em  ( + NOTICIAS )
+no canto superior direito.
+
+Após sera direcionado para o diretorio ( http://localhost/site/cadastrarNoticia.php ) que é o diretorio
+que cadastrei as noticias e o download delas.
+
+
+
